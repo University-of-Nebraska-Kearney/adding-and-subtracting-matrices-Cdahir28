@@ -41,7 +41,7 @@ def add_matrix(matrix1, matrix2):
 
 
 def main():
-    print("Build first matrix")
+    print("\nBuild first matrix")
     matrix1 = get_matrix()
 
     print("Build second matrix")
